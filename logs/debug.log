@@ -1,0 +1,576 @@
+[INFO] [2018-04-20 10:13:39] com.sync.Main - 开始 
+[INFO] [2018-04-20 10:13:40] com.sync.CloudPlatformApi - login username:hxmkl_tccpassword:hxmkl_tcc@
+[INFO] [2018-04-20 10:13:40] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A01A79"}
+[INFO] [2018-04-20 10:13:40] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:13:40] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘ASD377"}
+[INFO] [2018-04-20 10:13:41] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:15:57] com.sync.Main - 开始 
+[ERROR] [2018-04-20 10:15:57] com.sync.Main - error 开始 
+[INFO] [2018-04-20 10:16:41] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A0RV26"}
+[INFO] [2018-04-20 10:16:41] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:16:41] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A3XE29"}
+[INFO] [2018-04-20 10:16:41] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:19:41] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临AT3A00"}
+[INFO] [2018-04-20 10:19:42] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:19:42] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"黑AF32X1"}
+[INFO] [2018-04-20 10:19:42] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:22:42] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A3UV27"}
+[INFO] [2018-04-20 10:22:43] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:22:43] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临AT2R63"}
+[INFO] [2018-04-20 10:22:43] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:25:43] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临AM3821"}
+[INFO] [2018-04-20 10:25:43] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:25:43] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘N2Z299"}
+[INFO] [2018-04-20 10:25:44] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:28:44] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘ADH369"}
+[INFO] [2018-04-20 10:28:44] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:28:44] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AM308D"}
+[INFO] [2018-04-20 10:28:45] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:31:45] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A0A40K"}
+[INFO] [2018-04-20 10:31:45] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:31:45] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AQH502"}
+[INFO] [2018-04-20 10:31:46] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:34:46] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临AT6442"}
+[INFO] [2018-04-20 10:34:47] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:34:47] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临F7E246"}
+[INFO] [2018-04-20 10:34:47] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:37:47] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘C6QY66"}
+[INFO] [2018-04-20 10:37:47] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:37:47] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AD5F42"}
+[INFO] [2018-04-20 10:37:48] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:40:48] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A924XQ"}
+[INFO] [2018-04-20 10:40:48] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:40:48] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临AT2E46"}
+[INFO] [2018-04-20 10:40:49] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:43:49] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临ADL128"}
+[INFO] [2018-04-20 10:43:49] com.sync.CloudPlatformApi - {"error_code" : "-402", "error_message" : "token已失效！请重新登陆" }
+
+[ERROR] [2018-04-20 10:43:49] com.sync.CloudPlatformApi - {"error_message":"token已失效！请重新登陆","error_code":-402}
+[INFO] [2018-04-20 10:43:49] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A0DS76"}
+[INFO] [2018-04-20 10:43:49] com.sync.CloudPlatformApi - {"error_code" : "-401", "error_message" : "未获取token!请登陆获取;" }
+
+[ERROR] [2018-04-20 10:43:49] com.sync.CloudPlatformApi - {"error_message":"未获取token!请登陆获取;","error_code":-401}
+[INFO] [2018-04-20 10:46:49] com.sync.CloudPlatformApi - login username:hxmkl_tccpassword:hxmkl_tcc@
+[INFO] [2018-04-20 10:46:50] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A0LF25"}
+[INFO] [2018-04-20 10:46:50] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:46:51] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AUF780"}
+[INFO] [2018-04-20 10:46:51] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:49:51] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘ASC536"}
+[INFO] [2018-04-20 10:49:51] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:49:51] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A901WN"}
+[INFO] [2018-04-20 10:49:53] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:52:53] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AVD555"}
+[INFO] [2018-04-20 10:52:53] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:52:53] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临AC989M"}
+[INFO] [2018-04-20 10:52:54] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:55:54] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A1R60Q"}
+[INFO] [2018-04-20 10:55:54] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:55:54] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A1FQ31"}
+[INFO] [2018-04-20 10:55:55] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:58:55] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A7V831"}
+[INFO] [2018-04-20 10:58:55] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 10:58:55] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AS0698"}
+[INFO] [2018-04-20 10:58:55] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:01:55] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A5K57T"}
+[INFO] [2018-04-20 11:01:56] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:01:56] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临B9R455"}
+[INFO] [2018-04-20 11:01:56] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:04:56] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘ALJ678"}
+[INFO] [2018-04-20 11:04:58] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:04:58] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AKF781"}
+[INFO] [2018-04-20 11:04:58] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:07:58] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AU0V56"}
+[INFO] [2018-04-20 11:07:58] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:07:58] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AV4V55"}
+[INFO] [2018-04-20 11:07:59] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:10:59] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AUC940"}
+[INFO] [2018-04-20 11:11:00] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:11:00] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A7J75J"}
+[INFO] [2018-04-20 11:11:00] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:14:00] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临AQ8642"}
+[INFO] [2018-04-20 11:14:00] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:14:00] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A6V09L"}
+[INFO] [2018-04-20 11:14:01] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:17:01] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AKC987"}
+[INFO] [2018-04-20 11:17:01] com.sync.CloudPlatformApi - {"error_code" : "-402", "error_message" : "token已失效！请重新登陆" }
+
+[ERROR] [2018-04-20 11:17:01] com.sync.CloudPlatformApi - {"error_message":"token已失效！请重新登陆","error_code":-402}
+[INFO] [2018-04-20 11:17:01] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A2XK98"}
+[INFO] [2018-04-20 11:17:01] com.sync.CloudPlatformApi - {"error_code" : "-401", "error_message" : "未获取token!请登陆获取;" }
+
+[ERROR] [2018-04-20 11:17:01] com.sync.CloudPlatformApi - {"error_message":"未获取token!请登陆获取;","error_code":-401}
+[INFO] [2018-04-20 11:20:01] com.sync.CloudPlatformApi - login username:hxmkl_tccpassword:hxmkl_tcc@
+[INFO] [2018-04-20 11:20:01] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AJ522F"}
+[INFO] [2018-04-20 11:20:02] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:20:02] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A07Q16"}
+[INFO] [2018-04-20 11:20:02] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:23:02] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A5EF76"}
+[INFO] [2018-04-20 11:23:02] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:23:02] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A6K18L"}
+[INFO] [2018-04-20 11:23:03] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:26:03] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A3EA85"}
+[INFO] [2018-04-20 11:26:03] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:26:03] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AQ5W18"}
+[INFO] [2018-04-20 11:26:03] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:29:03] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A1758G"}
+[INFO] [2018-04-20 11:29:04] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:29:04] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临AP175R"}
+[INFO] [2018-04-20 11:29:04] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:32:04] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AYM241"}
+[INFO] [2018-04-20 11:32:06] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:32:06] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A7N38G"}
+[INFO] [2018-04-20 11:32:06] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:35:06] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A7CQ87"}
+[INFO] [2018-04-20 11:35:06] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:35:07] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临AJ1L39"}
+[INFO] [2018-04-20 11:35:07] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:38:07] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘LTD338"}
+[INFO] [2018-04-20 11:38:07] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:38:07] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AR2K77"}
+[INFO] [2018-04-20 11:38:08] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:41:08] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A6611J"}
+[INFO] [2018-04-20 11:41:08] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:41:08] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A4AC28"}
+[INFO] [2018-04-20 11:41:08] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:44:08] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘B9XJ96"}
+[INFO] [2018-04-20 11:44:10] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:44:10] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A978VS"}
+[INFO] [2018-04-20 11:44:10] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:47:10] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"浙BPX362"}
+[INFO] [2018-04-20 11:47:10] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:47:10] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临AZ5L28"}
+[INFO] [2018-04-20 11:47:11] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:50:11] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A0QQ99"}
+[INFO] [2018-04-20 11:50:11] com.sync.CloudPlatformApi - {"error_code" : "-402", "error_message" : "token已失效！请重新登陆" }
+
+[ERROR] [2018-04-20 11:50:11] com.sync.CloudPlatformApi - {"error_message":"token已失效！请重新登陆","error_code":-402}
+[INFO] [2018-04-20 11:50:11] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A5FY51"}
+[INFO] [2018-04-20 11:50:11] com.sync.CloudPlatformApi - {"error_code" : "-401", "error_message" : "未获取token!请登陆获取;" }
+
+[ERROR] [2018-04-20 11:50:11] com.sync.CloudPlatformApi - {"error_message":"未获取token!请登陆获取;","error_code":-401}
+[INFO] [2018-04-20 11:53:11] com.sync.CloudPlatformApi - login username:hxmkl_tccpassword:hxmkl_tcc@
+[INFO] [2018-04-20 11:53:12] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A9N51Z"}
+[INFO] [2018-04-20 11:53:12] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:53:12] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临AB5M95"}
+[INFO] [2018-04-20 11:53:13] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:56:13] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"粤BU22Y8"}
+[INFO] [2018-04-20 11:56:13] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:56:13] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AH4378"}
+[INFO] [2018-04-20 11:56:14] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:59:14] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A3U25E"}
+[INFO] [2018-04-20 11:59:15] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 11:59:15] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A8GM77"}
+[INFO] [2018-04-20 11:59:15] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:02:15] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AM913H"}
+[INFO] [2018-04-20 12:02:16] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:02:16] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A9H88S"}
+[INFO] [2018-04-20 12:02:16] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:05:16] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘ANC925"}
+[INFO] [2018-04-20 12:05:17] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:05:17] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A4085N"}
+[INFO] [2018-04-20 12:05:18] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:08:18] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临AT8277"}
+[INFO] [2018-04-20 12:08:18] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:08:18] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A9Z870"}
+[INFO] [2018-04-20 12:08:18] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:11:18] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临AMR595"}
+[INFO] [2018-04-20 12:11:19] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:11:19] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AH408S"}
+[INFO] [2018-04-20 12:11:19] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:14:19] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AC0Z12"}
+[INFO] [2018-04-20 12:14:20] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:14:20] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A0ME33"}
+[INFO] [2018-04-20 12:14:20] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:17:20] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"京NG1717"}
+[INFO] [2018-04-20 12:17:20] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:17:20] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AU5058"}
+[INFO] [2018-04-20 12:17:21] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:20:21] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A1DM33"}
+[INFO] [2018-04-20 12:20:21] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:20:21] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AWR602"}
+[INFO] [2018-04-20 12:20:22] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:23:22] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘ARQ033"}
+[INFO] [2018-04-20 12:23:22] com.sync.CloudPlatformApi - {"error_code" : "-402", "error_message" : "token已失效！请重新登陆" }
+
+[ERROR] [2018-04-20 12:23:22] com.sync.CloudPlatformApi - {"error_message":"token已失效！请重新登陆","error_code":-402}
+[INFO] [2018-04-20 12:23:22] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AS2086"}
+[INFO] [2018-04-20 12:23:22] com.sync.CloudPlatformApi - {"error_code" : "-401", "error_message" : "未获取token!请登陆获取;" }
+
+[ERROR] [2018-04-20 12:23:22] com.sync.CloudPlatformApi - {"error_message":"未获取token!请登陆获取;","error_code":-401}
+[INFO] [2018-04-20 12:26:22] com.sync.CloudPlatformApi - login username:hxmkl_tccpassword:hxmkl_tcc@
+[INFO] [2018-04-20 12:26:22] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A5S83J"}
+[INFO] [2018-04-20 12:26:22] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:26:22] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A6L80V"}
+[INFO] [2018-04-20 12:26:23] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:29:23] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临AD985E"}
+[INFO] [2018-04-20 12:29:23] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:29:23] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AB33V6"}
+[INFO] [2018-04-20 12:29:24] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:32:24] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临AG3884"}
+[INFO] [2018-04-20 12:32:24] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:32:24] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A4YX34"}
+[INFO] [2018-04-20 12:32:24] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:35:25] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A42G25"}
+[INFO] [2018-04-20 12:35:25] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:35:25] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A3277B"}
+[INFO] [2018-04-20 12:35:26] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:38:26] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A9737M"}
+[INFO] [2018-04-20 12:38:26] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:38:26] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AA9470"}
+[INFO] [2018-04-20 12:38:26] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:41:26] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A0VX86"}
+[INFO] [2018-04-20 12:41:27] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:41:27] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AL2N80"}
+[INFO] [2018-04-20 12:41:27] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:44:28] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘H0E597"}
+[INFO] [2018-04-20 12:44:29] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:44:29] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A4C82T"}
+[INFO] [2018-04-20 12:44:29] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:47:29] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A0S01N"}
+[INFO] [2018-04-20 12:47:30] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:47:30] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临AD915K"}
+[INFO] [2018-04-20 12:47:30] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:50:30] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A017P0"}
+[INFO] [2018-04-20 12:50:31] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:50:31] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临AHP425"}
+[INFO] [2018-04-20 12:50:31] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:53:31] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A2BB84"}
+[INFO] [2018-04-20 12:53:31] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:53:31] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临AGT842"}
+[INFO] [2018-04-20 12:53:32] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:56:32] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AJ773L"}
+[INFO] [2018-04-20 12:56:32] com.sync.CloudPlatformApi - {"error_code" : "-402", "error_message" : "token已失效！请重新登陆" }
+
+[ERROR] [2018-04-20 12:56:32] com.sync.CloudPlatformApi - {"error_message":"token已失效！请重新登陆","error_code":-402}
+[INFO] [2018-04-20 12:56:32] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AN077V"}
+[INFO] [2018-04-20 12:56:32] com.sync.CloudPlatformApi - {"error_code" : "-401", "error_message" : "未获取token!请登陆获取;" }
+
+[ERROR] [2018-04-20 12:56:32] com.sync.CloudPlatformApi - {"error_message":"未获取token!请登陆获取;","error_code":-401}
+[INFO] [2018-04-20 12:59:32] com.sync.CloudPlatformApi - login username:hxmkl_tccpassword:hxmkl_tcc@
+[INFO] [2018-04-20 12:59:32] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘ABG647"}
+[INFO] [2018-04-20 12:59:33] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 12:59:33] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A6Q04L"}
+[INFO] [2018-04-20 12:59:33] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:02:33] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A5EX80"}
+[INFO] [2018-04-20 13:02:33] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:02:33] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AS2337"}
+[INFO] [2018-04-20 13:02:34] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:05:35] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A2QB06"}
+[INFO] [2018-04-20 13:05:35] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:05:35] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A7A01S"}
+[INFO] [2018-04-20 13:05:35] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:08:35] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A04V30"}
+[INFO] [2018-04-20 13:08:36] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:08:36] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘ABP625"}
+[INFO] [2018-04-20 13:08:36] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:11:36] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A2855L"}
+[INFO] [2018-04-20 13:11:36] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:11:37] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临ABX517"}
+[INFO] [2018-04-20 13:11:37] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:14:37] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A5N192"}
+[INFO] [2018-04-20 13:14:37] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:14:37] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AC112Q"}
+[INFO] [2018-04-20 13:14:38] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:17:38] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AUL099"}
+[INFO] [2018-04-20 13:17:38] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:17:38] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临AQ0D33"}
+[INFO] [2018-04-20 13:17:39] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:20:39] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A0N696"}
+[INFO] [2018-04-20 13:20:39] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:20:39] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A3V87Y"}
+[INFO] [2018-04-20 13:20:39] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:23:39] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘 AR2498"}
+[INFO] [2018-04-20 13:23:40] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:23:40] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A5YW90"}
+[INFO] [2018-04-20 13:23:41] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:26:41] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临ME0798"}
+[INFO] [2018-04-20 13:26:41] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:26:41] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A0393F"}
+[INFO] [2018-04-20 13:26:42] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:29:42] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A0G23P"}
+[INFO] [2018-04-20 13:29:42] com.sync.CloudPlatformApi - {"error_code" : "-402", "error_message" : "token已失效！请重新登陆" }
+
+[ERROR] [2018-04-20 13:29:42] com.sync.CloudPlatformApi - {"error_message":"token已失效！请重新登陆","error_code":-402}
+[INFO] [2018-04-20 13:29:42] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A3WS55"}
+[INFO] [2018-04-20 13:29:42] com.sync.CloudPlatformApi - {"error_code" : "-401", "error_message" : "未获取token!请登陆获取;" }
+
+[ERROR] [2018-04-20 13:29:42] com.sync.CloudPlatformApi - {"error_message":"未获取token!请登陆获取;","error_code":-401}
+[INFO] [2018-04-20 13:32:42] com.sync.CloudPlatformApi - login username:hxmkl_tccpassword:hxmkl_tcc@
+[INFO] [2018-04-20 13:32:42] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AL063E"}
+[INFO] [2018-04-20 13:32:43] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:32:43] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A1676D"}
+[INFO] [2018-04-20 13:32:43] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:35:43] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AB1150"}
+[INFO] [2018-04-20 13:35:44] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:35:44] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AL092N"}
+[INFO] [2018-04-20 13:35:44] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:38:44] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A3YW16"}
+[INFO] [2018-04-20 13:38:44] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:38:44] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临ATT538"}
+[INFO] [2018-04-20 13:38:45] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:41:45] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A0345F"}
+[INFO] [2018-04-20 13:41:46] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:41:46] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AG840A"}
+[INFO] [2018-04-20 13:41:46] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:44:46] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A43M93"}
+[INFO] [2018-04-20 13:44:47] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:44:47] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A5325G"}
+[INFO] [2018-04-20 13:44:47] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:47:47] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临HYB961"}
+[INFO] [2018-04-20 13:47:48] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:47:48] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A1Q13Q"}
+[INFO] [2018-04-20 13:47:48] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:50:48] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A3B20M"}
+[INFO] [2018-04-20 13:50:48] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:50:48] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临AQ1W81"}
+[INFO] [2018-04-20 13:50:49] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:53:49] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A5S250"}
+[INFO] [2018-04-20 13:53:49] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:53:49] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A2DW96"}
+[INFO] [2018-04-20 13:53:49] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:56:49] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临AEM56L"}
+[INFO] [2018-04-20 13:56:51] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:56:51] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘ABB210"}
+[INFO] [2018-04-20 13:56:52] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:59:52] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A5RP31"}
+[INFO] [2018-04-20 13:59:52] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 13:59:52] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临AC66J6"}
+[INFO] [2018-04-20 13:59:52] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 14:02:53] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A3YY05"}
+[INFO] [2018-04-20 14:02:53] com.sync.CloudPlatformApi - {"error_code" : "-402", "error_message" : "token已失效！请重新登陆" }
+
+[ERROR] [2018-04-20 14:02:53] com.sync.CloudPlatformApi - {"error_message":"token已失效！请重新登陆","error_code":-402}
+[INFO] [2018-04-20 14:02:53] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A9TU61"}
+[INFO] [2018-04-20 14:02:53] com.sync.CloudPlatformApi - {"error_code" : "-401", "error_message" : "未获取token!请登陆获取;" }
+
+[ERROR] [2018-04-20 14:02:53] com.sync.CloudPlatformApi - {"error_message":"未获取token!请登陆获取;","error_code":-401}
+[INFO] [2018-04-20 14:05:53] com.sync.CloudPlatformApi - login username:hxmkl_tccpassword:hxmkl_tcc@
+[INFO] [2018-04-20 14:05:53] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AC0628"}
+[INFO] [2018-04-20 14:05:53] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 14:05:53] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A3W77E"}
+[INFO] [2018-04-20 14:05:54] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 14:08:54] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AX1P84"}
+[INFO] [2018-04-20 14:08:54] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 14:08:54] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A5068F"}
+[INFO] [2018-04-20 14:08:54] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 14:11:54] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A0Q87K"}
+[INFO] [2018-04-20 14:11:55] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 14:11:55] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临AVJ755"}
+[INFO] [2018-04-20 14:11:55] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 14:14:55] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AP670C"}
+[INFO] [2018-04-20 14:14:56] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 14:14:56] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A1CC43"}
+[INFO] [2018-04-20 14:14:56] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 14:17:56] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AQ0Q63"}
+[INFO] [2018-04-20 14:17:56] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 14:17:56] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘APS989"}
+[INFO] [2018-04-20 14:17:58] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 14:20:58] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AB1F26"}
+[INFO] [2018-04-20 14:20:59] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 14:20:59] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A37K66"}
+[INFO] [2018-04-20 14:20:59] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 14:23:59] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A5925J"}
+[INFO] [2018-04-20 14:23:59] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 14:23:59] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AS3K39"}
+[INFO] [2018-04-20 14:24:00] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 14:27:00] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A7E63J"}
+[INFO] [2018-04-20 14:27:00] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 14:27:00] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临AH7Z26"}
+[INFO] [2018-04-20 14:27:01] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 14:30:01] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A4QW97"}
+[INFO] [2018-04-20 14:30:01] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 14:30:01] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A6923G"}
+[INFO] [2018-04-20 14:30:01] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 14:33:01] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A8M00M"}
+[INFO] [2018-04-20 14:33:02] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 14:33:02] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A1T33P"}
+[INFO] [2018-04-20 14:33:02] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 14:36:02] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临ANH068"}
+[INFO] [2018-04-20 14:36:03] com.sync.CloudPlatformApi - {"error_code" : "-402", "error_message" : "token已失效！请重新登陆" }
+
+[ERROR] [2018-04-20 14:36:03] com.sync.CloudPlatformApi - {"error_message":"token已失效！请重新登陆","error_code":-402}
+[INFO] [2018-04-20 14:36:03] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"临A2Q16Y"}
+[INFO] [2018-04-20 14:36:03] com.sync.CloudPlatformApi - {"error_code" : "-401", "error_message" : "未获取token!请登陆获取;" }
+
+[ERROR] [2018-04-20 14:36:03] com.sync.CloudPlatformApi - {"error_message":"未获取token!请登陆获取;","error_code":-401}
+[INFO] [2018-04-20 14:39:03] com.sync.CloudPlatformApi - login username:hxmkl_tccpassword:hxmkl_tcc@
+[INFO] [2018-04-20 14:39:04] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A59J52"}
+[INFO] [2018-04-20 14:39:05] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 14:39:05] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AK313V"}
+[INFO] [2018-04-20 14:39:05] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 14:42:05] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AUV568"}
+[INFO] [2018-04-20 14:42:06] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 14:42:06] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘AA76S5"}
+[INFO] [2018-04-20 14:42:06] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 14:45:06] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-12 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":0,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A5248D"}
+[INFO] [2018-04-20 14:45:06] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 14:45:07] com.sync.CloudPlatformApi - send info{"XZQH":"Óê»¨Çø","SJ":"2018-03-13 00:00:00.0","SSFXSJMC":"Óê»¨·Ö¾Ö","SSPCSDM":"430111610000","SSPCSMC":"¾®Íå×ÓÅÉ³öËù","SSFXSJDM":"430111000000","TYPE":1,"TCCM":"ºìÐÇÃÀ¿­Áú","CLHP":"湘A0423F"}
+[INFO] [2018-04-20 14:45:08] com.sync.CloudPlatformApi - {"error_code" : "0", "error_message" : "SUCCESS" }
+
+[INFO] [2018-04-20 14:47:51] com.sync.Main - 开始 
+[ERROR] [2018-04-20 14:47:51] com.sync.Main - error 开始 

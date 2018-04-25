@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="GB18030"?>
+<Configuration status="info" monitorInterval="0" strict="true" schema="Log4J-V2.7.xsd">
+    <properties>
+        <property name="log4j.log.path">logs</property>
+    </properties>
+
+    <Appenders>  
+        <Console name="console" target="SYSTEM_OUT">
+            <PatternLayout pattern="[%4p] [%d{yyyy-MM-dd HH:mm:ss}] %c - %m%n" charset="GB18030"/>
+        </Console>
+
+        <RollingFile name="trace" fileName="${sys:log4j.log.path}/trace.log" immediateFlush="false"
+                     filePattern="${sys:log4j.log.path}/info.log.%i" append="true"> 
+            <SizeBasedTriggeringPolicy size="100MB"/>
+            <DefaultRolloverStrategy max="30"/>
+            <PatternLayout pattern="[%4p] [%d{yyyy-MM-dd HH:mm:ss}] %c - %m%n" charset="GB18030"/>
+        </RollingFile>
+
+        <RollingFile name="debug" fileName="${sys:log4j.log.path}/debug.log" immediateFlush="false"
+                     filePattern="${sys:log4j.log.path}/debug-%d{yyyy-MM-dd}.log" append="true">
+		    <TimeBasedTriggeringPolicy modulate="true" interval="1"/>   
+            <DefaultRolloverStrategy max="30"/>
+            <PatternLayout pattern="[%4p] [%d{yyyy-MM-dd HH:mm:ss}] %c - %m%n" charset="GB18030"/>
+        </RollingFile>
+
+        <RollingFile name="error" fileName="${sys:log4j.log.path}/error.log" immediateFlush="false"
+                     filePattern="${sys:log4j.log.path}/error-%d{yyyy-MM-dd}.log" append="true">
+		    <TimeBasedTriggeringPolicy modulate="true" interval="1"/>   
+            <DefaultRolloverStrategy max="30"/>
+            <PatternLayout pattern="[%4p] [%d{yyyy-MM-dd HH:mm:ss}] %c - %m%n" charset="GB18030"/>
+        </RollingFile>
+    </Appenders>
+
+    <Loggers>
+        <Root level="info" includeLocation="false">
+            <AppenderRef ref="console"/>
+            <AppenderRef ref="error" level="error"/>
+            <AppenderRef ref="debug" level="debug"/>
+            <!--<AppenderRef ref="trace" level="trace"/>-->
+        </Root>
+
+        <logger name="org.apache.http" level="error" additivity="false">
+            <appender-ref ref="error"/>
+        </logger>
+        <logger name="com.util" level="error" additivity="false">
+            <appender-ref ref="error"/>
+        </logger>
+        <logger name="com.models" level="error" additivity="false">
+            <appender-ref ref="error"/>
+        </logger>
+    </Loggers>
+</Configuration>
