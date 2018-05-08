@@ -35,7 +35,7 @@ public class VehicleAccessRecord {
 		SimpleDateFormat time=new SimpleDateFormat("yyyy-MM-dd HH:mm:ss.0");
 		try {
 			jobject.put("TYPE", TYPE);
-			jobject.put("SJ",  time.format(SJ)) ;
+			jobject.put("SJ",  SJ==null?"":time.format(SJ)) ;
 			jobject.put("TCCM", TCCM);
 			jobject.put("CLHP", CLHP);
 			jobject.put("XZQH", XZQH);

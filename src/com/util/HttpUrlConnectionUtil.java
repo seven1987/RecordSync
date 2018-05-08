@@ -68,7 +68,7 @@ public class HttpUrlConnectionUtil {
         try {
             URL u = new URL(url);
             HttpURLConnection conn = (HttpURLConnection) u.openConnection();
-            conn.setRequestProperty("Content-Type", "application/json");  
+            conn.setRequestProperty("Content-Type", "application/json;charset=UTF-8");  
             conn.setRequestProperty("Accept", "application/json"); 
             if(headers!=null){  
                 for(String key : headers.keySet()){  
