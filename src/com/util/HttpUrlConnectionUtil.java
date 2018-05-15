@@ -68,8 +68,8 @@ public class HttpUrlConnectionUtil {
         try {
             URL u = new URL(url);
             HttpURLConnection conn = (HttpURLConnection) u.openConnection();
-            conn.setRequestProperty("Content-Type", "application/json;charset=UTF-8");  
-            conn.setRequestProperty("Accept", "application/json"); 
+            conn.setRequestProperty("Content-Type", "application/json");  
+            conn.setRequestProperty("Accept-Charset", "utf-8");
             if(headers!=null){  
                 for(String key : headers.keySet()){  
                     conn.setRequestProperty(key, headers.get(key));  
@@ -93,7 +93,7 @@ public class HttpUrlConnectionUtil {
             //post方式需要将传递的参数输出到conn对象中
              
             DataOutputStream dos = new DataOutputStream(conn.getOutputStream());
-            dos.writeBytes(json);
+            dos.write(json.getBytes("UTF-8"));
             dos.flush();
             dos.close(); 
 
