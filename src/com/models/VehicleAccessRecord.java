@@ -32,7 +32,7 @@ public class VehicleAccessRecord {
 	
 	public   String toString() {
 		JSONObject jobject = new JSONObject( );
-		SimpleDateFormat time=new SimpleDateFormat("yyyy-MM-dd HH:mm:ss.0");
+		SimpleDateFormat time=new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 		try {
 			jobject.put("TYPE", TYPE);
 			jobject.put("SJ",  SJ==null?"":time.format(SJ)) ;

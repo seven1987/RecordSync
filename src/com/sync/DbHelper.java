@@ -5,7 +5,11 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
+import java.text.DateFormat;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 
 import com.models.VehicleAccessRecord;
@@ -68,20 +72,20 @@ public class DbHelper {
 			PreparedStatement ps = conn.prepareStatement(sql);
           
             ResultSet rs = ps.executeQuery();
-	    	 
+            DateFormat dateFormat =  new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 	    	while(rs.next()) 
 	    	{
 	    		VehicleAccessRecord record =  new VehicleAccessRecord();
 	    		record.setID(rs.getLong(1));
 	    		record.setTYPE(0);
 	    		record.setCLHP(rs.getString(2));
-	    		record.setSJ(rs.getDate(3)); 
+	    		record.setSJ(rs.getString(3)!=null?dateFormat.parse(rs.getString(3)):null);
 	    		list.add(record);
 	    	}
 	    	
 	    	rs.close();
 	    	ps.close();
-		} catch (SQLException e) {
+		} catch (SQLException | ParseException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}finally {
@@ -99,6 +103,7 @@ public class DbHelper {
 			PreparedStatement ps = conn.prepareStatement(sql);
           
             ResultSet rs = ps.executeQuery();
+            DateFormat dateFormat =  new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 	    	 
 	    	while(rs.next()) 
 	    	{
@@ -106,13 +111,13 @@ public class DbHelper {
 	    		record.setID(rs.getLong(1));
 	    		record.setTYPE(1);
 	    		record.setCLHP(rs.getString(2));
-	    		record.setSJ(rs.getDate(3)); 
+	    		record.setSJ(rs.getString(3)!=null?dateFormat.parse(rs.getString(3)):null); 
 	    		list.add(record);
 	    	}
 	    	
 	    	rs.close();
 	    	ps.close();
-		} catch (SQLException e) {
+		} catch (SQLException | ParseException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}finally {
